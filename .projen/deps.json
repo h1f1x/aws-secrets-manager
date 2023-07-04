@@ -6,6 +6,14 @@
       "type": "devenv"
     },
     {
+      "name": "boto3",
+      "type": "runtime"
+    },
+    {
+      "name": "click",
+      "type": "runtime"
+    },
+    {
       "name": "pytest",
       "version": "6.2.1",
       "type": "test"

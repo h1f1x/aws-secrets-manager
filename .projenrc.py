@@ -6,6 +6,7 @@ project = PythonProject(
     module_name="aws_secrets_manager",
     name="aws-secrets-manager",
     version="0.1.0",
+    deps=["boto3", "click"],
 )
 
 project.synth()
